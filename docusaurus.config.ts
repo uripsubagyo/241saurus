@@ -17,9 +17,10 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'uripsubagyo', // Usually your GitHub org/user name.
   projectName: '241saurus', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-page',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
