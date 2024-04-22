@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_241_saurus=self.webpackChunk_241_saurus||[]).push([[532],{6899:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/241saurus/blog/tags/hola","allTagsPath":"/241saurus/blog/tags","count":1,"unlisted":false}')}}]);
